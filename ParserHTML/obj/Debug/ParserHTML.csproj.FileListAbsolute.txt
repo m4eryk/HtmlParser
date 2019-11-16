@@ -1,0 +1,15 @@
+C:\Users\maeryk\source\repos\ParserHTML\ParserHTML\bin\Debug\ParserHTML.exe.config
+C:\Users\maeryk\source\repos\ParserHTML\ParserHTML\bin\Debug\ParserHTML.exe
+C:\Users\maeryk\source\repos\ParserHTML\ParserHTML\bin\Debug\ParserHTML.pdb
+C:\Users\maeryk\source\repos\ParserHTML\ParserHTML\bin\Debug\AngleSharp.dll
+C:\Users\maeryk\source\repos\ParserHTML\ParserHTML\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\maeryk\source\repos\ParserHTML\ParserHTML\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\maeryk\source\repos\ParserHTML\ParserHTML\bin\Debug\AngleSharp.xml
+C:\Users\maeryk\source\repos\ParserHTML\ParserHTML\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\maeryk\source\repos\ParserHTML\ParserHTML\obj\Debug\ParserHTML.csprojAssemblyReference.cache
+C:\Users\maeryk\source\repos\ParserHTML\ParserHTML\obj\Debug\ParserHTML.Form1.resources
+C:\Users\maeryk\source\repos\ParserHTML\ParserHTML\obj\Debug\ParserHTML.Properties.Resources.resources
+C:\Users\maeryk\source\repos\ParserHTML\ParserHTML\obj\Debug\ParserHTML.csproj.GenerateResource.cache
+C:\Users\maeryk\source\repos\ParserHTML\ParserHTML\obj\Debug\ParserHTML.csproj.CopyComplete
+C:\Users\maeryk\source\repos\ParserHTML\ParserHTML\obj\Debug\ParserHTML.exe
+C:\Users\maeryk\source\repos\ParserHTML\ParserHTML\obj\Debug\ParserHTML.pdb
